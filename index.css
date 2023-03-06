@@ -65,3 +65,9 @@
     cursor: pointer;
     border-radius: 8px;
 }
+
+@media only screen and (min-width:420px) {
+    .app-container{
+        width: 500px;
+    }
+}
