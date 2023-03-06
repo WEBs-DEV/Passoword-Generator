@@ -17,8 +17,8 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-    margin: auto;
-    width: 500px;
+    margin: auto 5px;
+    max-width: 500px;
     background: rgb(231, 219, 219);
     box-shadow: 0 2px 3px grey;
     text-align: center;
